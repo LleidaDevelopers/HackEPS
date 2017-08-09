@@ -1,2 +1,3 @@
 # hackEPS
-Simple web page for Hackathon in Lleida (HackEPS)
+Simple [web page](https://lleidadevelopers.github.io/HackEPS/) for Hackathon in Lleida (HackEPS)
+
