@@ -3551,7 +3551,7 @@ select[multiple].input-lg,
 }
 
 @media (min-width: 768px) {
-  .form-inline .form-group {
+  .form-inline {
     display: inline-block;
     margin-bottom: 0;
     vertical-align: middle;
@@ -7552,33 +7552,6 @@ p {
   color: #000;
 }
 
-.fh5co-project > a {
-  margin-bottom: 1.5em;
-  display: block;
-  position: relative;
-}
-.fh5co-project > a .fh5co-overlay {
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  top: 0;
-  background: rgba(255, 114, 48, 0.9);
-  z-index: 8;
-  opacity: 0;
-}
-.fh5co-project > a .fh5co-overlay-text {
-  position: absolute;
-  top: 50%;
-  text-align: center;
-  width: 100%;
-  margin-top: -15px;
-  z-index: 9;
-  color: #fff;
-  font-size: 20px;
-  font-family: "Sanchez", times, serif;
-  opacity: 0;
-}
 
 .form-control {
   box-shadow: none;
