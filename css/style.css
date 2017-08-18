@@ -15,6 +15,10 @@ body {
   margin: 0;
 }
 
+#testimony-animate{
+	background: rgba(255, 114, 48, 0.9);
+}
+
 article,
 aside,
 details,
