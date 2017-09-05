@@ -170,13 +170,13 @@
 	var animateTestimony = function() {
 		if ( $('#testimony-animate').length > 0 ) {
 			$('#testimony-animate .to-animate').each(function( k ) {
-				
+
 				var el = $(this);
-				
+
 				setTimeout ( function () {
 					el.addClass('fadeInUp animated');
-				},  k * 200, 'easeInOutExpo' );
-				
+				},  k * 2000, 'easeInOutExpo' );
+
 			});
 		}
 	};
